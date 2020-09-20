@@ -1,24 +1,5 @@
 # sudo-for-termux
 
-
-
-
-#Installation..
-
-1) apt install git
-
-
-2) git clone https://github.com/shubhamggosai/sudo-for-termux
-
-
-3) cd sudo-for-termux
-
-
-4) chmod +x sudo.sh
-
-
-5) bash sudo.sh
-
 ### FIND...ME.
 
 
@@ -40,3 +21,24 @@ Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
+Telegram :
+https://t.me/ShuBham_g0sain
+
+
+
+
+#Installation..
+
+1) apt install git
+
+
+2) git clone https://github.com/shubhamggosai/sudo-for-termux
+
+
+3) cd sudo-for-termux
+
+
+4) chmod +x sudo.sh
+
+
+5) bash sudo.sh
