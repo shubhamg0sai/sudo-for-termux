@@ -26,7 +26,7 @@ Telegram : https://t.me/ShuBham_g0sain
 1) apt install git
 
 
-2) git clone https://github.com/shubhamggosai/sudo-for-termux
+2) git clone https://github.com/ShuBhamg0sain/sudo-for-termux
 
 
 3) cd sudo-for-termux
